@@ -1,0 +1,25 @@
+.icon {
+  font-size: 48px;
+}
+.icon:hover {
+  transform: scale(1.5) rotate(-3deg);
+  transition: 400ms;
+  opacity: 0.9;
+}
+
+.header {
+  height: 45vh;
+  background-image: url(../Boostrapt/ImagenesProyecto/wood.jpg);
+  background-size: cover;
+}
+.footer {
+  background: darkslategray;
+  color: ghostwhite;
+}
+textarea {
+  resize: none;
+}
+.fondo {
+  background-image: url(../Boostrapt/ImagenesProyecto/homeoffice4.jpg);
+  background-size: cover;
+}
